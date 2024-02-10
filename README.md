@@ -11,7 +11,7 @@ SimPyEcologySim is an open-source project that utilizes the SimPy simulation fra
 ## Getting Started
 To get started with SimPyEcologySim, ensure you have Python and SimPy installed on your system. Clone this repository to your local machine and navigate to the project directory.
 
-git clone https://github.com/SamiGandhi/simulation_using_simpy.git
+git clone https://github.com/SamiGandhi/SimPyEcologySim.git
 cd simulation_using_simpy
 
 ## Requirements
@@ -20,7 +20,7 @@ cd simulation_using_simpy
 
 ## Usage
 To run a simulation, execute the simulation script from the command line. For example:
-python ecosystem_simulation.py
+python SIMULATION.py
 
 Replace `ecosystem_simulation.py` with the name of the script you wish to run.
 
@@ -32,4 +32,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 - SimPy for providing the simulation framework.
-- Contributors and community members for their ongoing support.
+- The PHC Tassili project for providing the framework for this collaborative research.
+- All contributors and supporters of the project.
